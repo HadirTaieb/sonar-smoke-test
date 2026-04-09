@@ -1,0 +1,1 @@
+# sonar-smoke-test
