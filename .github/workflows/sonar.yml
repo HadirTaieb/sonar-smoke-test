@@ -2,7 +2,7 @@ name: SonarQube (smoke test)
 
 on:
   push:
-    branches: [ "canary" ]
+    branches: [ "main" ]
 
 jobs:
   sonar:
